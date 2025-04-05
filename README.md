@@ -26,6 +26,6 @@ A simple and interactive web application built using **Streamlit** and **Transfo
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/bias-detection-app.git
+git clone https://github.com/Navi-1105/bias-detection-app.git
 cd bias-detection-app
 pip install -r requirements.txt
